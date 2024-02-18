@@ -1,0 +1,19 @@
+1.Criar um Recurso Azure Machine Learning
+2.Criar o Resorce Group (LABAI-900)
+3.Escolher as opções criando um banco laboratorioai-900
+4.Após validar opções criar o recurso
+5.Esperar o recurso ficar disponível e clicar em ir para o recurso.
+6.Inicar o estúdio
+7.Ir ML Automatizado
+8.Criar novo trabalho de ML Automatizado
+9.Mudar nome de trabalho para mslearn-bike-automl e nome do experimento para mslearn-bike-rental
+10.Mudar descrição com objetivo do recurso
+11.Avançar mudando tipo de tarefa como regreção.
+12.Criar ativo e dados aluguel de bicicleta, mudando descrição e tipo tabular.
+13.Seleciona fonte de daos arquivos da WEB.
+14.Mudar URL para http://aka.ms/bike-rentals
+15.Mudar cabeçario para somente o primeiro possui cabeçario.
+16.Criar ativo de dados depois selecionar para prosseguir a atividade.
+17.Selecionar coluna de destino rental(Integer) e desmarcar as configirações adicionais e em modelos permitidos selecionar RandomForest e LightGBM.
+18.Dentro de limites preencra máximo de avaliações, simultaneas e nós em 3, limte de pontuação métrica 0,085, tempo limite de experimeto e iteração em 15 e habilitar o encerramento antecipado. Tipo de validação em divisão de validação de treinamento e dados de teste nenhum.
+19.Anvance até enivar o trabalho de treinamento
