@@ -1,0 +1,5 @@
+1. Abra o Microsoft Azure e no recurso AI+Machine Learning selecione a opção Azure AI Search 
+2. Criar opção para detecção de faces.
+3. Testar
+4. Criar para detecção de textos
+5. Testar
