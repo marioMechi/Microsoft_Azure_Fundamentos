@@ -1,0 +1,6 @@
+DESAFIO Análise de Sentimentos com Language Studio no Azure AI
+
+1. Criar o recurso Conversão de fala em texto em tempo real em https://speech.microsoft.com/portal/
+2. Escolher o idioma
+3. Anexar o audio
+4. Ver o resultado
