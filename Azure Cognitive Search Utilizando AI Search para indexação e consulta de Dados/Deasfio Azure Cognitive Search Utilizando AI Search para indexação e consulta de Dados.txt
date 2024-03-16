@@ -1,0 +1,14 @@
+1. Criar uma AI de Busca em Azure AI Search selecianando serviço Básico
+
+2. Criar um recurso de Seriço em Azure AI services selecionando o Standard S0.
+
+3. Criar uma conta de armazenamento em Storage account selecionando Locally redundant storage (LRS) e permitndo em Configurações usuários anônimos em Allow Blob anonymous access.
+
+4. Criar um Container e fazer upload dos arquivos da documentação.
+
+5. Ver o resultados da análises
+
+Documentação: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html
+
+
+Objetivo: Criar uma inteligência artificial que pode analisar os feedback dos clientes com serviço ofertado de maneira mais eficiente e rápida.
